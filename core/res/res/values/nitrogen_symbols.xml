@@ -114,8 +114,6 @@
   <!-- Fastscroller -->
   <java-symbol type="color" name="fastscroller_text_color" />
 
-  <java-symbol type="bool" name="config_oldQtiTelephony" />
-
   <!-- Notification app name tint -->
   <java-symbol type="bool" name="config_allowNotificationAppNameTextTinting" />
 
