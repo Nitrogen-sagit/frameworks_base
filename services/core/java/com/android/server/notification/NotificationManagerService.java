@@ -4283,7 +4283,7 @@ public class NotificationManagerService extends SystemService {
                         == NotificationManager.IMPORTANCE_NONE
                 || r.getChannel().getImportance() == NotificationManager.IMPORTANCE_NONE;
         if (isBlocked) {
-            Slog.e(TAG, "Suppressing notification from package by user request.");
+//            Slog.e(TAG, "Suppressing notification from package by user request.");
             usageStats.registerBlocked(r);
         }
         return isBlocked;
