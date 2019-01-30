@@ -1,5 +1,5 @@
 files:
   - source: /packages/SystemUI/res/values/nitrogen_strings.xml
     translation: /packages/SystemUI/res/values-%android_code%/nitrogen_strings.xml
-  - source: core/res/res/values/nitrogen_strings.xml
-    translation: core/res/res/values-%android_code%/nitrogen_strings.xml
+  - source: /core/res/res/values/nitrogen_strings.xml
+    translation: /core/res/res/values-%android_code%/nitrogen_strings.xml
