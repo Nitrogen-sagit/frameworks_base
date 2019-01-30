@@ -78,7 +78,7 @@
     <string name="qs_menu_item_reset">重置</string>
     <string name="qs_menu_item_titles">显示标签</string>
     <string name="qs_menu_item_rows">行</string>
-    <string name="qs_menu_item_rows_landscape">行 (横屏)</string>
+    <string name="qs_menu_item_rows_landscape">行数 (横屏)</string>
     <string name="qs_menu_item_rows_one">1</string>
     <string name="qs_menu_item_rows_two">2</string>
     <string name="qs_menu_item_rows_three">3</string>
