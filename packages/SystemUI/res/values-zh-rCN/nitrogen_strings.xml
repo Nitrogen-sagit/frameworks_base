@@ -19,7 +19,7 @@
     <string name="global_action_restart_advanced">高级重启</string>
     <!-- LTE QS Tile -->
     <string name="qs_lte_label">LTE</string>
-    <string name="lte_on">LTE 开启 </string>
+    <string name="lte_on">LTE 开启</string>
     <string name="lte_off">LTE 关闭</string>
     <!-- Sound QS Tile -->
     <string name="quick_settings_sound_label">声音</string>
@@ -27,21 +27,21 @@
     <string name="quick_settings_sound_vibrate">振动</string>
     <string name="quick_settings_sound_dnd">请勿打扰</string>
     <!-- Caffeine QS Tile -->
-    <string name="quick_settings_caffeine_label">保持亮屏</string>
+    <string name="quick_settings_caffeine_label">屏幕常亮</string>
     <string name="accessibility_quick_settings_caffeine_off">关闭屏幕常亮</string>
     <string name="accessibility_quick_settings_caffeine_on">开启屏幕常亮</string>
     <!-- Reboot/Recovery QS Tile -->
-    <string name="quick_settings_reboot_label">重启</string>
-    <string name="quick_settings_reboot_recovery_label">恢复模式</string>
+    <string name="quick_settings_reboot_label">重新启动</string>
+    <string name="quick_settings_reboot_recovery_label">Recovery</string>
     <!-- Screenshot QS tile -->
     <string name="quick_settings_screenshot_label">屏幕截图</string>
     <string name="quick_settings_region_screenshot_label">局部截图</string>
     <!-- Heads Up QS Tile -->
     <string name="quick_settings_heads_up_label">浮动通知</string>
-    <string name="accessibility_quick_settings_heads_up_off">关闭浮动通知</string>
-    <string name="accessibility_quick_settings_heads_up_on">开启浮动通知</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">浮动通知已关闭</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">浮动通知已开启</string>
+    <string name="accessibility_quick_settings_heads_up_off">关闭浮动通知。</string>
+    <string name="accessibility_quick_settings_heads_up_on">开启浮动通知。</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">浮动通知已关闭。</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">浮动通知已开启。</string>
     <!-- HW Keys Tile -->
     <string name="accessibility_quick_settings_hwkeys_on">开启实体按键</string>
     <string name="accessibility_quick_settings_hwkeys_off">关闭实体按键</string>
@@ -66,7 +66,7 @@
     <string name="keyguard_indication_dash_charging_time">正在快速充电 (还需<xliff:g id="charging_time_left" example="4小时2分钟">%s</xliff:g>充满)</string>
     <string name="keyguard_plugged_in_dash_charging">正在快速充电</string>
     <!-- QS Config -->
-    <string name="qs_menu_item_columns">列</string>
+    <string name="qs_menu_item_columns">列数</string>
     <string name="qs_menu_item_columns_landscape">列数 (横屏)</string>
     <string name="qs_menu_item_columns_three">3</string>
     <string name="qs_menu_item_columns_four">4</string>
@@ -78,7 +78,7 @@
     <string name="qs_menu_item_reset">重置</string>
     <string name="qs_menu_item_titles">显示标签</string>
     <string name="qs_menu_item_rows">行</string>
-    <string name="qs_menu_item_rows_landscape">行 (横屏)</string>
+    <string name="qs_menu_item_rows_landscape">行数 (横屏)</string>
     <string name="qs_menu_item_rows_one">1</string>
     <string name="qs_menu_item_rows_two">2</string>
     <string name="qs_menu_item_rows_three">3</string>
@@ -101,5 +101,5 @@
     <string name="quick_settings_smart_pixels_on_power_save">自动启用智能像素</string>
     <!-- Partial screenshot -->
     <string name="screenshot_abort_title">无屏幕截图</string>
-    <string name="screenshot_abort_text">操作中止</string>
+    <string name="screenshot_abort_text">操作已中止。</string>
 </resources>
