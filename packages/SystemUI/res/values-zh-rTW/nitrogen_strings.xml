@@ -67,7 +67,7 @@
     <string name="keyguard_plugged_in_dash_charging">快速充電中</string>
     <!-- QS Config -->
     <string name="qs_menu_item_columns">列</string>
-    <string name="qs_menu_item_columns_landscape">列 (橫向)</string>
+    <string name="qs_menu_item_columns_landscape">列数 (橫向)</string>
     <string name="qs_menu_item_columns_three">3</string>
     <string name="qs_menu_item_columns_four">4</string>
     <string name="qs_menu_item_columns_five">5</string>
@@ -78,7 +78,7 @@
     <string name="qs_menu_item_reset">重置</string>
     <string name="qs_menu_item_titles">顯示標籤</string>
     <string name="qs_menu_item_rows">行</string>
-    <string name="qs_menu_item_rows_landscape">行 (橫向)</string>
+    <string name="qs_menu_item_rows_landscape">行數（橫向）</string>
     <string name="qs_menu_item_rows_one">1</string>
     <string name="qs_menu_item_rows_two">2</string>
     <string name="qs_menu_item_rows_three">3</string>
